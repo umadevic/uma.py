@@ -1,3 +1,3 @@
 abarna=input()
-uma=abarna[::-1]
-print(uma)
+uma1=abarna[::-1]
+print(uma1)
